@@ -40,6 +40,7 @@ a {
   font-size: 48px;
   font-weight: bolder;
   color: #f9faf8;
+  max-width: 444px;
 }
 
 .title-sub {
@@ -50,8 +51,18 @@ a {
 .HeaderBody {
   display: flex;
   padding: 100px;
+  justify-content: space-around;
 }
 
 img {
-  max-height: 400px;
+  max-height: 300px;
+  margin-left: 44px;
+}
+
+button {
+  background-color: #3882f6;
+  color: white;
+  padding: 5px 20px;
+  border-radius: 8px;
+  border: none;
 }
