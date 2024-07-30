@@ -136,3 +136,12 @@ h2 {
   border-radius: 8px;
   border: 2px solid white;
 }
+
+.footer {
+  background-color: #1f2937;
+  color: #f9faf8;
+  align-items: flex-end;
+  padding: 20px;
+  font-size: 9px;
+  text-align: center;
+}
