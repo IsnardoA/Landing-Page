@@ -96,3 +96,22 @@ h2 {
   margin: 50px;
   text-align: center;
 }
+
+.section3 {
+  background-color: #e5e7eb;
+  padding: 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.quote {
+  font-size: 36px;
+  font-style: italic;
+  color: #1f2937;
+}
+
+.quote-author {
+  color: #1f2937;
+  font-weight: bolder;
+  align-self: flex-end;
+}
