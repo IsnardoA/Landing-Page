@@ -116,11 +116,17 @@ h2 {
   align-self: flex-end;
 }
 
+.section4 {
+  padding: 88px 111px;
+}
+
 .call-action {
   background-color: #3882f6;
   border-radius: 4px;
   color: #f9faf8;
   display: flex;
+  padding: 33px 77px;
+  justify-content: space-around;
 }
 
 .call-action-button {
