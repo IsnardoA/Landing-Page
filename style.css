@@ -115,3 +115,10 @@ h2 {
   font-weight: bolder;
   align-self: flex-end;
 }
+
+.call-action {
+  background-color: #3882f6;
+  border-radius: 4px;
+  color: #f9faf8;
+  display: flex;
+}
